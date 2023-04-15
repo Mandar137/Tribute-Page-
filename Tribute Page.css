@@ -1,0 +1,34 @@
+#img-div {
+    text-align: center;
+  }
+  #image {
+    max-width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  #title{
+    text-align: center;
+    font-size:300%;
+  }
+
+  #tribute-info{
+    margin: 100px;
+    text-align: justify;
+  }
+  
+  #img-caption{
+    margin-top: 20px;
+    font-size: 200%;
+
+  }
+
+  #tribute-link{
+    font-size: 200%;
+    text-align: justify;
+  }
+
+  #main{
+    text-align: center;
+  }
